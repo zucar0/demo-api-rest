@@ -1,0 +1,16 @@
+{
+  "name": "demo-api-rest",
+  "version": "1.0.0",
+  "description": "Demo API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "nodejs"
+  ],
+  "author": "Antonio Enríquez",
+  "license": "MIT"
+}
